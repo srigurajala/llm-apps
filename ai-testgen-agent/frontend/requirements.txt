@@ -1,0 +1,9 @@
+
+# Streamlit Frontend Requirements
+streamlit==1.29.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Optional: For better UI components
+streamlit-extras==0.3.6
+streamlit-option-menu==0.3.6
